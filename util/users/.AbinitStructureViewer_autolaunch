@@ -1,0 +1,8 @@
+this file is used by the program AbinitStructureViewer.py (version beta)
+(this file is not essential and can be deleted if needed)
+
+jmol launch command :
+java -jar /Applications/jmol-10.00/Jmol.jar
+
+automatically launch jmol each time a .xyz file is created ?
+no
